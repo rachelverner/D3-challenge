@@ -1,5 +1,5 @@
 .aText {
-  font-family: sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 16px;
   text-anchor: middle;
 }
@@ -19,7 +19,7 @@
 }
 
 .inactive:hover {
-  fill: #000;
+  fill: rgb(201, 47, 175);
   cursor: pointer;
 }
 
@@ -31,9 +31,10 @@
 }
 
 .stateCircle {
-  fill: #89bdd3;
+  fill: #084936;
   stroke: #e3e3e3;
 }
+
 
 .chart {
   display: block;
